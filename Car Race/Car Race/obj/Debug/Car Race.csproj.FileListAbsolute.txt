@@ -1,0 +1,11 @@
+C:\Users\knanq\source\repos\Car Race\Car Race\bin\Debug\Car Race.exe.config
+C:\Users\knanq\source\repos\Car Race\Car Race\bin\Debug\Car Race.exe
+C:\Users\knanq\source\repos\Car Race\Car Race\bin\Debug\Car Race.pdb
+C:\Users\knanq\source\repos\Car Race\Car Race\obj\Debug\Car Race.csproj.AssemblyReference.cache
+C:\Users\knanq\source\repos\Car Race\Car Race\obj\Debug\Car Race.csproj.SuggestedBindingRedirects.cache
+C:\Users\knanq\source\repos\Car Race\Car Race\obj\Debug\Car_Race.Properties.Resources.resources
+C:\Users\knanq\source\repos\Car Race\Car Race\obj\Debug\Car Race.csproj.GenerateResource.cache
+C:\Users\knanq\source\repos\Car Race\Car Race\obj\Debug\Car Race.csproj.CoreCompileInputs.cache
+C:\Users\knanq\source\repos\Car Race\Car Race\obj\Debug\Car Race.exe
+C:\Users\knanq\source\repos\Car Race\Car Race\obj\Debug\Car Race.pdb
+C:\Users\knanq\source\repos\Car Race\Car Race\obj\Debug\Car_Race.Car_Game.resources
