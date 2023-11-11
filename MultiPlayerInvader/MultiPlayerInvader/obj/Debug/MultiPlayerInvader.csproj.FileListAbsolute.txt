@@ -1,0 +1,11 @@
+C:\Users\knanq\source\repos\MultiPlayerInvader\MultiPlayerInvader\bin\Debug\MultiPlayerInvader.exe.config
+C:\Users\knanq\source\repos\MultiPlayerInvader\MultiPlayerInvader\bin\Debug\MultiPlayerInvader.exe
+C:\Users\knanq\source\repos\MultiPlayerInvader\MultiPlayerInvader\bin\Debug\MultiPlayerInvader.pdb
+C:\Users\knanq\source\repos\MultiPlayerInvader\MultiPlayerInvader\obj\Debug\MultiPlayerInvader.csproj.AssemblyReference.cache
+C:\Users\knanq\source\repos\MultiPlayerInvader\MultiPlayerInvader\obj\Debug\MultiPlayerInvader.csproj.SuggestedBindingRedirects.cache
+C:\Users\knanq\source\repos\MultiPlayerInvader\MultiPlayerInvader\obj\Debug\MultiPlayerInvader.Form1.resources
+C:\Users\knanq\source\repos\MultiPlayerInvader\MultiPlayerInvader\obj\Debug\MultiPlayerInvader.Properties.Resources.resources
+C:\Users\knanq\source\repos\MultiPlayerInvader\MultiPlayerInvader\obj\Debug\MultiPlayerInvader.csproj.GenerateResource.cache
+C:\Users\knanq\source\repos\MultiPlayerInvader\MultiPlayerInvader\obj\Debug\MultiPlayerInvader.csproj.CoreCompileInputs.cache
+C:\Users\knanq\source\repos\MultiPlayerInvader\MultiPlayerInvader\obj\Debug\MultiPlayerInvader.exe
+C:\Users\knanq\source\repos\MultiPlayerInvader\MultiPlayerInvader\obj\Debug\MultiPlayerInvader.pdb

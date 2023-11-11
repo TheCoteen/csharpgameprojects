@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiPlayerInvader", "MultiPlayerInvader\MultiPlayerInvader.csproj", "{92E698A9-1603-4ECF-AC3D-6B546B0278BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92E698A9-1603-4ECF-AC3D-6B546B0278BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92E698A9-1603-4ECF-AC3D-6B546B0278BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92E698A9-1603-4ECF-AC3D-6B546B0278BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92E698A9-1603-4ECF-AC3D-6B546B0278BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E121E3C-BCED-4137-9340-3DFE5212043B}
+	EndGlobalSection
+EndGlobal
